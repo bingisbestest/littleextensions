@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/LittleExtensions/v15
+/LittleExtensions/bin/Debug/netstandard2.0
+/LittleExtensions/bin/Release/netstandard2.0
+/LittleExtensions/obj
+/LittleExtensions/bin/Release
